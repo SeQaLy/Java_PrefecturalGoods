@@ -1,0 +1,25 @@
+body {
+	background-color: #FFFFFA;
+}
+
+table.table_index {
+	cellpadding: 3px;
+	cellspacing: 0px;
+	height: 30px;
+}
+
+table.table_list{
+	width: 600px;
+}
+
+.errorMessages {
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	color: red;
+}
+
+table.table_edit{
+	width: 300px;
+}
